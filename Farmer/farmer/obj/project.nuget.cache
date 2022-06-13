@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yeijqyRTfWCYEsnVsOCbBm96HdP15qboSoS8j48tzlyiIm/MGGiDVLuJW6VXdsVA+/9mtQ3oOKagXQ/LyR4JNw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\lpowe\\OneDrive\\Documents\\CODE\\Farmer\\farmer\\farmer.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lpowe\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\lpowe\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

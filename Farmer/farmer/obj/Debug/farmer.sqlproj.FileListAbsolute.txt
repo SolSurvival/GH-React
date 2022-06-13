@@ -1,0 +1,10 @@
+c:\Users\lpowe\OneDrive\Documents\CODE\Farmer\farmer\bin\Debug\farmer.dacpac
+c:\Users\lpowe\OneDrive\Documents\CODE\Farmer\farmer\bin\Debug\farmer.dll
+c:\Users\lpowe\OneDrive\Documents\CODE\Farmer\farmer\bin\Debug\farmer.pdb
+c:\Users\lpowe\OneDrive\Documents\CODE\Farmer\farmer\obj\Debug\farmer.sqlproj.AssemblyReference.cache
+c:\Users\lpowe\OneDrive\Documents\CODE\Farmer\farmer\obj\Debug\Model.xml
+c:\Users\lpowe\OneDrive\Documents\CODE\Farmer\farmer\obj\Debug\refactor.xml
+c:\Users\lpowe\OneDrive\Documents\CODE\Farmer\farmer\obj\Debug\postdeploy.sql
+c:\Users\lpowe\OneDrive\Documents\CODE\Farmer\farmer\obj\Debug\predeploy.sql
+c:\Users\lpowe\OneDrive\Documents\CODE\Farmer\farmer\obj\Debug\farmer.dll
+c:\Users\lpowe\OneDrive\Documents\CODE\Farmer\farmer\obj\Debug\farmer.pdb
